@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou o Edimaique Maciel, sou desenvolvedor Front-end.</h2>
+<h2 align="left">Olá, eu sou o Edimaique Maciel, sou desenvolvedor FullStack.</h2>
 
 ###
 
